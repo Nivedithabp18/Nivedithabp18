@@ -1,3 +1,4 @@
+![Welcome Banner](https://i.imgur.com/ZgYzU3L.png)
 # 👋 Hi, I'm Niveditha BP
 
 🎓 I'm a 3rd-year Computer Science student at SIT, Mangalore, with a passion for building efficient and responsive websites.
