@@ -22,14 +22,14 @@
 
 ---
 
-## 🌱 Currently Learning
+<!-- ## 🌱 Currently Learning
 
 - Advanced JavaScript frameworks
 - Backend technologies (Node.js, Express)
 - UI/UX design principles
 
 ---
-
+-->
 ## 📫 Let's Connect
 
 <!-- - 💌 [Email Me](mailto:nivedithanbp@gmail.com) -->
