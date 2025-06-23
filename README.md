@@ -1,5 +1,15 @@
-<img src="./github%20banner3.jpg" alt="Hi I'm Niveditha" width="100%" height="200px">
+<!-- <img src="./github%20banner3.jpg" alt="Hi I'm Niveditha" width="100%" height="200px"> -->
 
+<!-- Dark mode version -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Niveditha+B+P">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Niveditha+B+P" alt="Typing SVG" />
+  </picture>
+</p>
+
+
+<h3 align="center">Frontend Developer | BTech CSE Student | Tech Explorer</h3>
 🎓 I'm a 3rd-year Computer Science student at SIT, Mangalore, with a passion for building efficient and responsive websites.
 
 ---
