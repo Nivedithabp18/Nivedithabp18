@@ -4,12 +4,14 @@
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-- 🔧 I build **responsive**, **SEO-optimized**, and **cleanly coded** websites.
-- 💡 Skilled in **HTML**, **CSS**, **JavaScript**, **Java**, and **C++**.
-- 🚀 Always eager to **learn**, **collaborate**, and **explore** new technologies.
-- 💻 Experienced in crafting full front-end solutions from scratch with performance and accessibility in mind.
+ 🔗 **Portfolio**: [nivedithabp18.github.io/my-portfolio](https://nivedithabp18.github.io/my-portfolio)  
+ 🧾 **Certificate**: [Certificates & Resume](https://drive.google.com/drive/folders/1X9Tmn5R1UazwWDHB-0QmLNks7BF4stej?usp=sharing)  
+ 💼 **LinkedIn**: [linkedin.com/in/niveditha-bp-42a665284](https://www.linkedin.com/in/niveditha-bp-42a665284/)  
+ 💌 **Email**: [nivedithanbp@gmail.com](mailto:nivedithanbp@gmail.com)  
+
+
 
 ---
 
