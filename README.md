@@ -9,8 +9,8 @@
 </p>
 
 
-<h3 align="center">Frontend Developer | BTech CSE Student | Tech Explorer</h3>
-🎓 I'm a 3rd-year Computer Science student at SIT, Mangalore, with a passion for building efficient and responsive websites.
+<h3 align="center">Frontend Developer | BTech CSE Student </h3>
+🎓 I'm a 4th-year Computer Science student at SIT, Mangalore, with a passion for building efficient and responsive websites.
 
 ---
 
