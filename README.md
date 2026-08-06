@@ -64,5 +64,6 @@
 ![Niveditha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivedithabp18&show_icons=true&theme=radical)
 <!--![Niveditha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nivedithabp18&show_icons=true&theme=transparent)-->
 ---
-
+<!--
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+-->
